@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=UnA Wallet
+Comment=UnA wallet
+Exec=unawallet %U
+Terminal=false
+Type=Application
+Icon=una
+MimeType=x-scheme-handler/una;
+Categories=Office;Finance;
+Version=3.0.1
+Name[en_ZA]=unawallet.desktop
