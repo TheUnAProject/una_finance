@@ -47,7 +47,7 @@ public:
     void retranslateUi(QWidget *ExitWidget)
     {
         ExitWidget->setWindowTitle(QApplication::translate("ExitWidget", "Saving data", 0));
-        label->setText(QApplication::translate("ExitWidget", "UnA wallet is saving data.\n"
+        label->setText(QApplication::translate("ExitWidget", "UNA wallet is saving data.\n"
 "Please wait...", 0));
     } // retranslateUi
 

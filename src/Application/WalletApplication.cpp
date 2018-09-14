@@ -253,9 +253,9 @@ bool WalletApplication::initCryptoNoteAdapter() {
       okButton->setText(QObject::tr("Ok"));
       dlg.addButton(okButton, QMessageBox::AcceptRole);
       dlg.setText(QObject::tr("The database is currently used by another application or service.\n"
-      "If you have unad with non-default RPC port, you should terminate it and relaunch UnAWallet\n"
+      "If you have unad with non-default RPC port, you should terminate it and relaunch UNAWallet\n"
       "or\n"
-      "Set the Local deamon required port in UnAWallet Menu/Preferences/Connection settings."));
+      "Set the Local deamon required port in UNAWallet Menu/Preferences/Connection settings."));
       dlg.exec();
       return false;
     }

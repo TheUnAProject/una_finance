@@ -17,7 +17,7 @@
    <item>
     <widget class="QLabel" name="label">
      <property name="text">
-      <string>UnA wallet is saving data.
+      <string>UNA wallet is saving data.
 Please wait...</string>
      </property>
     </widget>
